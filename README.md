@@ -1,6 +1,7 @@
 ## About Me
 
-* computer science student. 
+* Computer scientist.
+* Master's student in computer science 
 
 
 ---
